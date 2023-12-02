@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ControlWork\bin\Debug\net7.0\ControlWork.exe
+C:\Users\user\Desktop\ControlWork\bin\Debug\net7.0\ControlWork.deps.json
+C:\Users\user\Desktop\ControlWork\bin\Debug\net7.0\ControlWork.runtimeconfig.json
+C:\Users\user\Desktop\ControlWork\bin\Debug\net7.0\ControlWork.dll
+C:\Users\user\Desktop\ControlWork\bin\Debug\net7.0\ControlWork.pdb
+C:\Users\user\Desktop\ControlWork\obj\Debug\net7.0\ControlWork.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ControlWork\obj\Debug\net7.0\ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ControlWork\obj\Debug\net7.0\ControlWork.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ControlWork\obj\Debug\net7.0\ControlWork.AssemblyInfo.cs
+C:\Users\user\Desktop\ControlWork\obj\Debug\net7.0\ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ControlWork\obj\Debug\net7.0\ControlWork.dll
+C:\Users\user\Desktop\ControlWork\obj\Debug\net7.0\refint\ControlWork.dll
+C:\Users\user\Desktop\ControlWork\obj\Debug\net7.0\ControlWork.pdb
+C:\Users\user\Desktop\ControlWork\obj\Debug\net7.0\ControlWork.genruntimeconfig.cache
+C:\Users\user\Desktop\ControlWork\obj\Debug\net7.0\ref\ControlWork.dll
